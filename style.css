@@ -1,0 +1,18 @@
+h1{
+      font-style: oblique;
+   
+}
+.titulo_da_aula{
+    color: rgb(17, 17, 16);
+    font-size: 36px;
+    border: 10px solid black
+}
+
+div{
+    background-color: rgb(211, 225, 230);
+    border: 14px;
+    border-color: black;
+}
+body{
+    background-color: aquamarine;
+    }
